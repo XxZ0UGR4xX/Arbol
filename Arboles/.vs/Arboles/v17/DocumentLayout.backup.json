@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\source\\repos\\Arboles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6BB5D-F9A8-49C2-88EA-BB8FF4D73324}|Arboles.csproj|c:\\users\\franc\\source\\repos\\arboles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6BB5D-F9A8-49C2-88EA-BB8FF4D73324}|Arboles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6BB5D-F9A8-49C2-88EA-BB8FF4D73324}|Arboles.csproj|c:\\users\\franc\\source\\repos\\arboles\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6BB5D-F9A8-49C2-88EA-BB8FF4D73324}|Arboles.csproj|solutionrelative:nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Arboles\\Nodo.cs",
+              "RelativeDocumentMoniker": "Nodo.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Arboles\\Nodo.cs",
+              "RelativeToolTip": "Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:18:13.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\source\\repos\\Arboles\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\franc\\source\\repos\\Arboles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:16:51.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
